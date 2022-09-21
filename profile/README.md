@@ -1,4 +1,4 @@
-## Phoebe – Gazette Heidelberger Physik Studenten
+## Phoebe – Gazette Studentischer Physik Heidelberg
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
