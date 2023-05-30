@@ -1,4 +1,3 @@
-## Phoebe – Gazette für Studentische Physik in Heidelberg
+## Phoebe – Gazette für Studentische Forschung
 
-für mehr Infos siehe [www.phoebe-gazette.de](https://phoebe.pubpub.org/)
-
+Für mehr Infos siehe [https://phoebe.pubpub.org](https://phoebe.pubpub.org/).
